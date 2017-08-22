@@ -1,7 +1,7 @@
 {
   "name": "workshops",
   "version": "1.0.0",
-  "description": "workshops for restack-core/react-native",
+  "description": "workshops for init App (github)",
   "main": "index.js",
   "bin": {
     "workshops": "bin/workshops"
